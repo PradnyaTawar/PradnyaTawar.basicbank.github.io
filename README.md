@@ -30,10 +30,10 @@
 ![Screenshot (721)](https://user-images.githubusercontent.com/78145883/124714088-f2c5e300-df1e-11eb-8ad1-3e14a3c4c326.png)
 
 ## 6. How to transfermoney
-![Screenshot (722)](https://user-images.githubusercontent.com/78145883/124714096-f48fa680-df1e-11eb-8913-022021a73f1e.png)
+![Screenshot (725)](https://user-images.githubusercontent.com/78145883/124721036-61f30580-df26-11eb-858c-e73dc9f8b25c.png)
 
 ## 7. After Transfer money
-![Screenshot (723)](https://user-images.githubusercontent.com/78145883/124714104-f78a9700-df1e-11eb-8263-00aaa30656a0.png)
+![Screenshot (726)](https://user-images.githubusercontent.com/78145883/124721382-b26a6300-df26-11eb-9df8-788e46c9dc79.png)
 
 
 [Link]()
