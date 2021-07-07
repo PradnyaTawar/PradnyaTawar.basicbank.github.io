@@ -170,7 +170,7 @@ color:#000;
  text-align: center;    
 }
 .footer{
-    background: linear-gradient(#00545d, #000729);
+	background-color: #000;
  color:rgb(240, 221, 221);
  font-size:14px;
 }
