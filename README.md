@@ -1,8 +1,6 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/PradnyaTawar/PradnyaTawarBasicBank.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ## phpmyadmin page
 ![Screenshot (715)](https://user-images.githubusercontent.com/78145883/124713509-4683fc80-df1e-11eb-8340-94cf57920cf1.png)
@@ -29,10 +27,5 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ![Screenshot (723)](https://user-images.githubusercontent.com/78145883/124714104-f78a9700-df1e-11eb-8263-00aaa30656a0.png)
 
 
-
-### Markdown
-
-
-[Link](https://pradnyatawar.github.io/PradnyaTawarBasicBank.github.io/) and ![Image](src)
-```
+[Link](https://pradnyatawar.github.io/PradnyaTawarBasicBank.github.io/) 
 
