@@ -27,5 +27,5 @@
 ![Screenshot (723)](https://user-images.githubusercontent.com/78145883/124714104-f78a9700-df1e-11eb-8263-00aaa30656a0.png)
 
 
-[Link](https://pradnyatawar.github.io/PradnyaTawarBasicBank.github.io/) 
+[Link]()
 
