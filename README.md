@@ -1,4 +1,13 @@
-## Welcome to GitHub Pages
+### Welcome to GitHub Pages 
+### MY LINK : https://pradnyatawar.github.io/PradnyaTawar.basicbank.github.io/
+### I Have Completed my TASK which **BASIC BANKING SYSTEM** as a **WEB DEVELOPEMENT AND DESIGN INTERN** of **THE SPARK FOUNDATION.**
+
+
+### I HAVE USED 
+### FRONT END : HTML, CSS, BOOTSTRAP
+### BACK END: PHP
+### DATABASE: MYSQL
+
 
 
 
@@ -27,5 +36,5 @@
 ![Screenshot (723)](https://user-images.githubusercontent.com/78145883/124714104-f78a9700-df1e-11eb-8263-00aaa30656a0.png)
 
 
-[Link](https://pradnyatawar.github.io/PradnyaTawarBasicBank.github.io/) 
+[Link]()
 
