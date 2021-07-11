@@ -1,6 +1,9 @@
 <!DOCTYPE html>
 <html>
   <head>
+  <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
       <link rel="stylesheet"href="bootstrap/css/bootstrap.min.css"type="text/css">
       <script type="text/javascript" src="bootstrap/jquery-3.5.1.min.js"></script>
       <script type="text/javascript" src="bootstrap/js/bootstrap.min.js"></script>
@@ -16,9 +19,9 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>                        
                     </button>
-                    <a href="index.html" class="navbar-brand" href="#">Basic Banking System</a>
+                    <a href="index.php" class="navbar-brand" href="#">Basic Banking System</a>
                 </div>
-                <div class="collapse navbar-collapse" id="myNavbar">
+                <div class="collapse navbar-collapse" id="collapsibleNavbar">
                     <ul class="nav navbar-nav navbar-right">
                         <li><a href="index.php"><span class="glyphicon glyphicon-home"></span> Home</a></li>
                         <li><a href="viewallcustomers.php"><span class="glyphicon glyphicon-user"></span> User</a></li>
