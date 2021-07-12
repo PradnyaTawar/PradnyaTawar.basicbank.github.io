@@ -66,19 +66,13 @@ button{
 }
 .banner-image{
 padding-bottom: 80px;
- margin-bottom: 30px;
+ margin-bottom: 10px;
  text-align: center;
  color: #fcf4f4;
  background: url(abc.gif) no-repeat center;
  background-size: cover;
 }
-.banner-images{
-	padding-bottom: 80px;
-	 text-align: center;
-	 color: #fcf4f4;
-	 background: url(abcd.gif) no-repeat center;
-	 background-size: cover;
-	}
+
 .inner-banner-image{
 padding-top: 50%;
  width:50%;
@@ -86,7 +80,7 @@ padding-top: 50%;
 }
 .banner-content{
 position: relative;
- padding-top: 6%;
+ padding-top: 10%;
  padding-bottom: 6%;
  overflow:hidden;
  margin-bottom: 12%;
@@ -95,7 +89,7 @@ position: relative;
 }
 .banner-contents{
 	position: relative;
-	 padding-top: 25%;
+	 padding-top: 40%;
 	 padding-bottom: 6%;
 	 overflow:hidden;
 	 margin-bottom: 12%;
@@ -196,18 +190,66 @@ color:#000;
 	background-color:#f8f8f8;
   }
   
-  @media only screen and (orientation: portrait){
-	*{
-		letter-spacing: 1px;
+  @media only screen and (max-width: 760px),
+(min-device-width: 768px) and (max-device-width: 1024px){
+	div.items{
+		width: 100%;
+		position: center;	
+		
 	}
-	.items{
-		display:flex;
-		flex-direction: column-reverse;
+	div.items:hover{
+		width: 100%;
 	}
-	h1{
-		font-size: 30px;
+	div.banner-image{
+		display: block;	
 	}
-	.act{
-		padding-bottom: 100px;
+	div.container { 
+			display: block; 		
+		}
+		
+	div.caption{
+		width: 30%;
+		position: center;
+		
 	}
+	div.containers{
+		display: block;
+		width: fit-content;
+	}
+	div.containerfor{
+		display: block;
+		width: fit-content;
+	}
+	div.containertoo{
+		position: center;
+		display: block;
+	}
+	div.thumbnail{
+		width: auto;
+
+	}
+	div.eleven h2{
+		padding-top: 20px;
+		padding-bottom: 5px;
+		padding-right: 100px;
+		padding-left: 100px;
+		display: block;
+		width: fit-content;
+	}
+	div.eleven h2::after{
+		display: none;
+	}
+	div.eleven h2::before{
+		display: none;
+	}
+	
+
 }
+
+div.fullWidth{
+	width: 100%;
+	font-size: 2rem;
+}
+
+
+	

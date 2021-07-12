@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html>
   <head>
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
       <link rel="stylesheet"href="bootstrap/css/bootstrap.min.css"type="text/css">
       <script type="text/javascript" src="bootstrap/jquery-3.5.1.min.js"></script>
       <script type="text/javascript" src="bootstrap/js/bootstrap.min.js"></script>
@@ -37,7 +39,7 @@ $result = mysqli_query($conn,$sql);
 ?>
 <div class="containers">
 <div class="eleven">
-  <h2>View Customers Details</h2>
+  <h2>View Customers </h2>
 </div>  
 <div class="row">
 <div class="col">

@@ -1,8 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-  <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
       <link rel="stylesheet"href="bootstrap/css/bootstrap.min.css"type="text/css">
       <script type="text/javascript" src="bootstrap/jquery-3.5.1.min.js"></script>
@@ -20,8 +19,9 @@
                         <span class="icon-bar"></span>                        
                     </button>
                     <a href="index.php" class="navbar-brand" href="#">Basic Banking System</a>
+                  
                 </div>
-                <div class="collapse navbar-collapse" id="collapsibleNavbar">
+                <div class="collapse navbar-collapse" id="myNavbar">
                     <ul class="nav navbar-nav navbar-right">
                         <li><a href="index.php"><span class="glyphicon glyphicon-home"></span> Home</a></li>
                         <li><a href="viewallcustomers.php"><span class="glyphicon glyphicon-user"></span> User</a></li>
@@ -32,7 +32,8 @@
       </div>
     </nav>
     
-     <div class="content">
+    
+     <div class="container">
     <div class="banner-image">
         <div class="inneer-banner-image">
             <center>
@@ -72,7 +73,7 @@
             <a href="transactionhistory.php" >
                 <img src="history.png" alt="" class="thumbnail">
                 <div class="caption">
-                <button type="button" class="btn btn-info btn-rounded btn-lg">Transaction History<i class="fas fa-heart ml-2" aria-hidden="true"></i></button>                
+                <button type="button" class="btn btn-info btn-rounded btn-lg">Transaction History</button>                
                 </div>
             </a>
         </div>
@@ -85,6 +86,8 @@
             </center>
         </div>
     </footer>
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx" crossorigin="anonymous"></script> 
     </body>
 </html>
     
